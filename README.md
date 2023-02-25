@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Mustafa
 #### Software Automation Engineer
-![Software Automation Engineer](https://github4life.herokuapp.com/ethomson.gif)
 
 A traveler who deals with astronomy that teaches swimming as a Software Automation Engineer... ✈ 👨‍🚀🏊‍♂️ 👨‍💻
 
@@ -9,8 +8,6 @@ A traveler who deals with astronomy that teaches swimming as a Software Automati
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mu5tafacool)](https://github.com/LordDashMe/github-contribution-stats/)  
 <!-- ![mu5tafacool's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu5tafacool&show_icons=true&theme=transparent) -->
-
-
 
 
 <!-- ![Metrics](https://metrics.lecoq.io/mu5tafacool) -->
