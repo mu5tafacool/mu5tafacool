@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Mustafa
 #### Software Automation Engineer
 ![Software Automation Engineer](https://github4life.herokuapp.com/ethomson.gif)
 
@@ -14,7 +14,7 @@ Skills: Java / Python / Gherkin / HTML / CSS
 
 ![mu5tafacool's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu5tafacool&show_icons=true&theme=transparent)
 
-https://beta-metrics.lecoq.io/insights/mu5tafacool
+[](https://beta-metrics.lecoq.io/insights/mu5tafacool)
 
 <!--
 **mu5tafacool/mu5tafacool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
