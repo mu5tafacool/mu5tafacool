@@ -4,8 +4,6 @@
 
 A traveler who deals with astronomy that teaches swimming as a Software Automation Engineer... ✈ 👨‍🚀🏊‍♂️ 👨‍💻
 
-Skills: Java / Python / Gherkin / HTML / CSS
-
 - 🔭 I’m currently working on this page. 
 
 
