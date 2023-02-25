@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mu5tafacool)](https://github.com/LordDashMe/github-contribution-stats/)
+[![mu5tafacool's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu5tafacool)](https://github.com/anuraghazra/github-readme-stats)
+![mu5tafacool's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu5tafacool&show_icons=true&theme=transparent)
 
 <!--
 **mu5tafacool/mu5tafacool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
