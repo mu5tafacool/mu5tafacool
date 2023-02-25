@@ -7,7 +7,8 @@ A traveler who deals with astronomy that teaches swimming as a Software Automati
 - 🔭 I’m currently working on this page. 
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mu5tafacool)](https://github.com/LordDashMe/github-contribution-stats/)  ![mu5tafacool's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu5tafacool&show_icons=true&theme=transparent)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mu5tafacool)](https://github.com/LordDashMe/github-contribution-stats/)  
+<!-- ![mu5tafacool's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu5tafacool&show_icons=true&theme=transparent) -->
 
 
 
