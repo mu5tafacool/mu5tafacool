@@ -10,11 +10,11 @@ Skills: Java / Python / Gherkin / HTML / CSS
 
 
 
-[![ethomson's contribution graph as a Game of Life](https://github4life.herokuapp.com/ethomson.gif)](https://github4life.herokuapp.com/ethomson)
-
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mu5tafacool)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ![mu5tafacool's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu5tafacool&show_icons=true&theme=transparent)
+
+https://beta-metrics.lecoq.io/insights/mu5tafacool
 
 <!--
 **mu5tafacool/mu5tafacool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
